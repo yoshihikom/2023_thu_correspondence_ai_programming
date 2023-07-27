@@ -1,0 +1,2 @@
+# 2023_thu_correspondence_ai_programming
+2023年通信教育スクーリング「応用プログラミング演習」
